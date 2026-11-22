@@ -1,0 +1,15 @@
+# Nunca versionar binarios / pacotes no git (vao em Releases)
+*.zip
+*.exe
+*.dll
+*.bpl
+*.dcu
+*.local
+*.identcache
+__history/
+_staging/
+PARA_SUBIR/
+*.tmp
+*.part
+.DS_Store
+Thumbs.db
